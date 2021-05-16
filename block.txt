@@ -1,2 +1,4 @@
 reddit.com
 youtube.com
+www.reddit.com
+www.youtube.com
